@@ -1,0 +1,3 @@
+module: web_app
+description: Deploys VPC, public and private subnets, routing tables, IGW, NAT
+version: 1.0.0
