@@ -1,0 +1,13 @@
+formatter: markdown table
+
+settings:
+  anchor: false
+  hide-empty: true
+
+sort:
+  enabled: true
+  by: required
+
+sections:
+  hide:
+    - providers
